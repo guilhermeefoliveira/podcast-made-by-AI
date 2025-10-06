@@ -1,4 +1,4 @@
-![Point of Data Cover](./cover_mscopilot.png)
+![Point of Data Cover](./cover/cover_point_of_data.png)
 
 # 🇧🇷 PT - BR
 # Ponto de Dado — tendências além dos gráficos
