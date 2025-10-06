@@ -1,4 +1,4 @@
-![Point of Data Cover](./cover/cover_point_of_data.png)
+![Point of Data Cover](./assets/cover_point_of_data.png)
 
 # 🇧🇷 PT - BR
 # Ponto de Dado — tendências além dos gráficos
