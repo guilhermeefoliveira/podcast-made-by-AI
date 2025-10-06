@@ -115,13 +115,8 @@ The result was the **pilot episode**:
 ## 2. Generating the cover art
 
 The podcast cover will be created in **Microsoft Copilot**.  
-Use a creative prompt that reflects the show’s identity — modern, tech-inspired, and accessible for beginners.
 
-> **Placeholder for the Microsoft Copilot prompt:**  
-> *(paste the prompt used to generate the cover art here)*
-
-Example inspiration:  
-> “A stylized microphone made of data points and lines, with floating charts in the background, in shades of blue and purple — modern, clean, and technological style.”
+> I'm looking to create a cover for my data science podcast. The folder will depict a cute cartoon-like animal who is a specialist in data science, it uses glasses and likes to study facing nature. It is studying right now in a miami-like redish sunset. Create this image for me.
 
 ---
 
