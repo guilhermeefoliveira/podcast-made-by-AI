@@ -71,7 +71,7 @@ Compartilhar o processo criativo de produção de um podcast de ciência de dado
 **Repositório original do projeto:** [digitalinnovationone/dio-lab-fundamentos-ia-generativa](https://github.com/digitalinnovationone/dio-lab-fundamentos-ia-generativa)
 
 ---
-# 🇺🇸 US - EN
+# 🇺🇸 EN - US
 # Point of Data — trends beyond the charts
 
 Welcome to the official repository of **Point of Data**, a podcast made by AI.  
